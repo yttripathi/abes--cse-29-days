@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "question": "Which planet in our solar system is known for having a prominent ring system?",
+    "options": ["Mars", "Saturn", "Neptune", "Jupiter"],
+    "correct_answer": "Saturn",
+    "category": "Astronomy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "What is the chemical symbol for the element Gold?",
+    "options": ["Gd", "Ag", "Au", "Fe"],
+    "correct_answer": "Au",
+    "category": "Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "Which programming language was originally created by Brendan Eich in 1995?",
+    "options": ["Python", "Java", "JavaScript", "C++"],
+    "correct_answer": "JavaScript",
+    "category": "Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correct_answer": "Canberra",
+    "category": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "How many bones are there in an adult human body?",
+    "options": ["206", "106", "306", "216"],
+    "correct_answer": "206",
+    "category": "Biology",
+    "difficulty": "Easy"
+  }
+]
