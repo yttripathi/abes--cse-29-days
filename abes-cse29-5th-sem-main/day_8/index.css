@@ -1,0 +1,11 @@
+#prod-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 20px;
+}
+#prod-container div{
+    border:2px solid black;
+}
+#header{
+    text-align: center;
+}
